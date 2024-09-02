@@ -1,0 +1,2 @@
+# exaDiag
+examen diagnostico
